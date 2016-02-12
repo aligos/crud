@@ -1,0 +1,22 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "crud",
+    "express"
+  ],
+  "author": "aligos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.7"
+  }
+}
